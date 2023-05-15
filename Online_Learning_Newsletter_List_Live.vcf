@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Online Learning \ Delft Extension School
+N;CHARSET=UTF-8:Online Learning \ Delft Extension School;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;Postbus 5;Delft;ZH;2600 AA;Netherlands
+EMAIL:onlinelearningsupport@tudelft.nl
+ORG;CHARSET=UTF-8:TU Delft
+URL:https://online-learning.tudelft.nl
+END:VCARD
